@@ -22,7 +22,7 @@ By creating a database to analyze the given data, the following determinations w
   ![rt](https://user-images.githubusercontent.com/80009944/120940662-668c8a00-c6ec-11eb-8288-1f46a09a07b6.PNG)
 
 
-3. Of the 90.398, employees ready for retirement, only 1,940 (abt 2%) are eligible for the mentorship program.
+3. Of the 90,398, employees ready for retirement, only 1,940 (abt 2%) are eligible for the mentorship program.
 
 4. Of the 1,940 employees eligible for mentorship, 
   - 513 are engineers 
